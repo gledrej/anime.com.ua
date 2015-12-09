@@ -1,6 +1,7 @@
 <html>
 <head>
 
+    <script type="text/javascript" charset="utf-8" src="/js/jquery-1.11.3.min.js"></script>
     <script type="text/javascript" charset="utf-8" src="/js/script.js"></script>
     <script type="text/javascript" charset="utf-8" src="/js/owl.carousel.js"></script>
     <script type="text/javascript" charset="utf-8" src="/js/owl.carousel.min.js"></script>
@@ -39,12 +40,32 @@
 
 
     <div class="block-3">
-        <div class="block-3-banner-1"></div>
+
         <div class="block-3-slaider-1">
 
+            <div class="owl-carousel">
+                <div class="item block-3-slaider"><h4>1</h4></div>
+                <div class="item block-3-slaider"><h4>2</h4></div>
+                <div class="item block-3-slaider"><h4>3</h4></div>
+                <div class="item block-3-slaider"><h4>4</h4></div>
+                <div class="item block-3-slaider"><h4>5</h4></div>
+                <div class="item block-3-slaider"><h4>6</h4></div>
+                <div class="item block-3-slaider"><h4>7</h4></div>
+                <div class="item block-3-slaider"><h4>8</h4></div>
+                <div class="item block-3-slaider"><h4>9</h4></div>
+                <div class="item block-3-slaider"><h4>10</h4></div>
+                <div class="item block-3-slaider"><h4>11</h4></div>
+                <div class="item block-3-slaider"><h4>12</h4></div>
+            </div>
 
+            <script>
+
+            </script>
+        </div>
+        <div class="block-3-banner-1">
 
         </div>
+
 
 
     </div>

@@ -139,6 +139,27 @@ width: 25%;
 /***************************************************** AND BLOCK-2 ****************************************************/
 
 
+/******************************************************* BLOCK-2 ****************************************************/
+.block-3-slaider{
+    height: 150px;
+    background-color: blue;
+}
+
+.block-3-banner-1{
+    width: 100%;
+    background: url("/images/banner.jpg") no-repeat;
+    background-size: cover;
+    -moz-background-size: cover;
+    background-position: center;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    padding: 63px 0px;
+    margin-top: 20px;
+}
+
+
+/***************************************************** AND BLOCK-2 ****************************************************/
+
 
 
 
